@@ -2,4 +2,3 @@ a=10
 b=20
 echo the sum is: `expr $a + $b`
 echo "the sum"
-echo "i m master branch"
